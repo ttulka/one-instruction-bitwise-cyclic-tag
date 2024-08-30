@@ -1,0 +1,32 @@
+{
+  "name": "one-instruction-cyclic-tag",
+  "version": "1.0.0",
+  "description": "One-Instruction Cyclic Tag (OICT) is an esoteric programming language for cyclic tag systems.",
+  "main": "oict.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttulka/one-instruction-cyclic-tag.git"
+  },
+  "keywords": [
+    "one-instruction-cyclic-tag",
+    "one-instruction",
+    "cyclic-tag-system",
+    "tag-system",
+    "esolang",
+    "programming-language",
+    "turing-complete",
+    "js"
+  ],
+  "author": "Tomas Tulka (ttulka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttulka/one-instruction-cyclic-tag/issues"
+  },
+  "homepage": "https://github.com/ttulka/one-instruction-cyclic-tag#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
